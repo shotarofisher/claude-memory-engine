@@ -15,3 +15,4 @@ Notes and usage details for claude-memory-engine.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
