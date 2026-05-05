@@ -19,3 +19,4 @@ Notes and usage details for claude-memory-engine.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
